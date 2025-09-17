@@ -2,12 +2,10 @@
 <div style="width: 100%; text-align: center;">
   <img src="img/banner.jpg" alt="Banner" style="width: 100%; height: 250px; object-fit: cover; border-radius: 12px;">
 </div>
-
 <!-- Apresentação -->
 <div style="text-align: center; margin-top: 20px;">
   <h3>Hey! I'm Henrick 👋</h3>
   <p>Always looking for new <strong>experiences</strong> and challenges!</p>
-  
   <!-- Links principais -->
   <div style="margin-top: 10px;">
     <a href="https://dev.to/rickferrdev" target="_blank">
@@ -18,18 +16,15 @@
     </a>
   </div>
 </div>
-
 <!-- Descrição -->
 <div style="text-align: center; margin-top: 20px;">
   <p>Backend developer with experience in API architecture and system integrations.</p>
   <p>Focused on robust software engineering, security, testing, documentation, and standardization.</p>
   <p>Dedicated to continuous learning, critical requirements analysis, and multidisciplinary collaboration.</p>
 </div>
-
 <!-- Skills -->
 <h3 style="text-align: center; margin-top: 30px;">Skills</h3>
 <div style="display: flex; flex-direction: column; gap: 20px; margin-top: 15px;">
-
   <!-- Backend -->
   <div>
     <h4>Backend</h4>
@@ -42,7 +37,6 @@
       <img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" alt="React Badge"/>
     </div>
   </div>
-
   <!-- Frontend -->
   <div>
     <h4>Frontend</h4>
@@ -52,7 +46,6 @@
       <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
     </div>
   </div>
-
   <!-- Database -->
   <div>
     <h4>Database</h4>
@@ -73,7 +66,6 @@
     </div>
   </div>
 </div>
-
 <!-- Sobre mim -->
 <br>
 <div style="margin-top: 30px; text-align: center;">
@@ -82,11 +74,10 @@
     My goal is to explore different areas of technology to become a well-rounded developer.
   </p>
   <p>
-    I occasionally share tech-related ideas and articles on 
-    <a href="https://www.linkedin.com/in/rickferr" target="_blank">LinkedIn</a> and
-
-<a href="https://dev.to/rickferrdev" target="_blank">Dev.to</a>.  
-    Feel free to reach out to me through my website or e-mail for work-related discussions.
+    I occasionally share tech-related ideas and articles on <a href="https://www.linkedin.com/in/rickferr" target="_blank">LinkedIn</a> and <a href="https://dev.to/rickferrdev" target="_blank">Dev.to</a>.
+  </p>
+  <p>
+     Feel free to reach out to me through my website or e-mail for work-related discussions.
   </p>
   <p>
     I'm currently looking for my first professional opportunity in the programming field! 🖤
